@@ -3,7 +3,6 @@
 main {
   width: 256px;
   margin: 0 auto;
-
 }
 
 img {
@@ -40,7 +39,7 @@ body {
   font-size: 14px;
 }
 
-.container {
+.container2 {
   margin: 30px auto;
   width: 500px;
 }
@@ -73,8 +72,6 @@ body {
 }
 
 .content.active {
-  text-align: center;
-  margin: 0 auto;
   background:pink;
   color: #fff;
   min-height: 150px;
@@ -83,7 +80,5 @@ body {
 }
 
 .content {
-  text-align: center;
-  margin: 0 auto;
   display: none;
 }
