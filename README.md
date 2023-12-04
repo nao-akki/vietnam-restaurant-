@@ -1,5 +1,5 @@
 # vietnam-restaurant-
-
+プログラミングの勉強のため作成している ベトナム料理店のHPです。
 
 
 ![_DSC0403](https://user-images.githubusercontent.com/126632281/234509853-7dd656ba-2439-41b8-a6d1-b631c953a080.JPG)
